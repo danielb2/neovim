@@ -2,7 +2,7 @@ require 'formula'
 
 class Neovim < Formula
   homepage 'http://neovim.org'
-  head 'https://github.com/neovim/neovim.git'
+  head 'https://github.com/danielb2/neovim.git'
 
   depends_on 'md5sha1sum'
   depends_on 'cmake'
